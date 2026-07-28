@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://offgrid0801-glitch.github.io/reference-fam4hf/sitemap.xml
